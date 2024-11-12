@@ -95,11 +95,20 @@ button:hover {
 
 /* burat ni earl */
 .product img {
-    width: 300px; /* Ensures the image width adapts properly */
-    height: 300px;
+    width: 100px; /* Ensures the image width adapts properly */
+    height: 200px;
     object-fit: 79;
     border-radius: 1px;
 }
+
+.product p {
+    color: #666;
+    font-size: 16px;
+    margin: 0 0 15px;
+    line-height: 1.5;
+}
+
+
 
 .product h3 {
     color: #333;
